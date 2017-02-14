@@ -1,0 +1,5 @@
+---
+name: bluemedora-deps
+dependencies: []
+files:
+- bluemedora-deps/bluemedora-deps.tar.gz

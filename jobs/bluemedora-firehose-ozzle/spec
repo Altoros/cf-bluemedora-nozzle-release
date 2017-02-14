@@ -1,0 +1,6 @@
+---
+name: bluemedora-firehose-ozzle
+templates:
+
+packages:
+- bluemedora-firehose-ozzle

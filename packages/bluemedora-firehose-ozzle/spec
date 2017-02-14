@@ -1,0 +1,5 @@
+---
+name: bluemedora-firehose-ozzle
+dependencies: []
+files:
+- bluemedora-firehose-ozzle/bluemedora-firehose-nozzle.tar.gz

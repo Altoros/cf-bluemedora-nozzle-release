@@ -1,0 +1,6 @@
+---
+name: go17
+templates:
+
+packages:
+- go17

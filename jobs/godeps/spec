@@ -1,0 +1,6 @@
+---
+name: godeps
+templates:
+
+packages:
+- bluemedora-deps
