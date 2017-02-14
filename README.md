@@ -74,3 +74,4 @@ bosh create release --final --version 2.1
 ```
 
 After the first release you need to contact [Dmitriy Kalinin](mailto://dkalinin@pivotal.io) to request your project is added to https://bosh.io/releases (as mentioned in README above).
+# cf-bluemedora-nozzle-release
