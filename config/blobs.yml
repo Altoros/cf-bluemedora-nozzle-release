@@ -1,1 +1,13 @@
---- {}
+---
+bluemedora-deps/bluemedora-deps.tar.gz:
+  object_id: 193a4a2e-1c76-48d7-9318-9a6980ef94f5
+  sha: 3ca258aa810e6a626f78229807a9b82ef602f7e6
+  size: 1293085
+go17/go1.7.5.linux-amd64.tar.gz:
+  object_id: 54fcdd4d-247f-4067-98dd-964f176b2aea
+  sha: 7c6902ce8cd3b9963082d748c50df074e4896796
+  size: 84176916
+bluemedora-firehose-ozzle/bluemedora-firehose-nozzle.tar.gz:
+  object_id: d142c2be-77df-47a4-a10c-eccfd0371b1d
+  sha: 4e60cbb9490c6f7c5ae9ac08b8ddb02eea8c12ca
+  size: 545658
